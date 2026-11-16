@@ -49,8 +49,3 @@ Run the Streamlit application:
 streamlit run app.py
 ```
 
-## Author
-GitHub Username: patkale123
-
-## Internship
-CodeAlpha Data Science Internship
